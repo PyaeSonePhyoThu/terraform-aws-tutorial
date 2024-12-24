@@ -1,1 +1,3 @@
-# terraform-aws-tutorial
+terraform init
+terraform apply
+terraform destory 
